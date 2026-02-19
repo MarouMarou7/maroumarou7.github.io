@@ -22,17 +22,18 @@ orcid: 0009-0002-1378-0440
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a Master's student in Control and Mechatronics Engineering at Universiti Teknologi Malaysia, and conducting my degree under the supervision of Associate Prof. Leow Pei Ling. I completed my Bachelor's degree in Mechatronics at Yildiz Technical University (Türkiye).
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My research interests include autonomous mobile robotics,
+  </p>
+  <p>
+    In my free time, I enjoy fencing, reading and learning new things.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Massachusetts Institute of Technology
@@ -41,7 +42,7 @@ education:
     Department of Electrical Engineering and Computer Science <br/>
     Ph.D. Student
   date: Sep. 2024 - present
-- name: Peking University
+- name: Yildiz Technical University
   logo: /assets/images/badges/PKU_red.png
   position: B.S. in Computer Science
   date: Sep. 2019 - Jul. 2021
