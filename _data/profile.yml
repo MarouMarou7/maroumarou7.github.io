@@ -1,11 +1,9 @@
 primary_name: "Marouane El Massine Lfellah"
 secondary_name: ""
-navbar_name: ""
+navbar_name: "Marouane El Massine Lfellah"
 
 positions:
 - name: MEng Student
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
 email: "marouane@graduate.utm.my"
@@ -36,16 +34,16 @@ portrait_url: /assets/images/photos/portrait.jpeg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: University of Technology Malaysia
+  logo: /assets/images/badges/UTM-LOGO.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
+    Department of Control and Mechatronics Engineering <br/>
+    MEng. Student
+  date: Oct. 2024 - present
 - name: Yildiz Technical University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  logo: /assets/images/badges/Yildiz_Technical_University_Logo.png
+  position: BEng. in Mechatronics Engineering
+  date: Oct. 2019 - Jun. 2024
 
 # experience:
 # - name: Peking University
